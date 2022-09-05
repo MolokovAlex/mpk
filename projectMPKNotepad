@@ -1,0 +1,20 @@
+<NotepadPlus>
+    <Project name="MPK">
+        <File name="src\main.c" />
+        <File name="src\Config.c" />
+        <File name="src\disp.c" />
+        <File name="src\funcKey.c" />
+        <File name="src\init.c" />
+        <File name="src\InitVAR.c" />
+        <File name="inc\Config.h" />
+        <File name="inc\init.h" />
+        <File name="inc\LIB_Config.h" />
+        <File name="inc\MacroAndConst.h" />
+        <File name="inc\main.h" />
+        <File name="inc\stm8l15x_conf.h" />
+        <File name="lib\SPL\src\stm8l15x_it.c" />
+        <File name="lib\SSD1306\SSD1306.c" />
+        <File name="lib\SSD1306\SSD1306.h" />
+    </Project>
+</NotepadPlus>
+
